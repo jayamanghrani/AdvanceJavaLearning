@@ -6,7 +6,7 @@ public class A3_WebServer {
 
 
 
-// what is Web server
+// Introduction of Web server
 /*
  * The request sent by browser is received by a server , inside server a
  * software called WEB SERVERwhich runs 24*7 at the server end
