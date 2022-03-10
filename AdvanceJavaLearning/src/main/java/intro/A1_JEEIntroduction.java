@@ -4,7 +4,7 @@ public class A1_JEEIntroduction {
 
 }
 
-// Introduction
+// Introduction of JEE
 //JEE--Jakarta Enterprise edition (Eclipse foundation control JEE, earlier oracle was controlling)
 // latest version -9.0
 
