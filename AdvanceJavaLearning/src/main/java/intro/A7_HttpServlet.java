@@ -4,6 +4,7 @@ public class A7_HttpServlet {
 
 }
 
+//HttpServlet ki khani
 
 //We have Generic servlet then why new class HttpServlet ??
 		
