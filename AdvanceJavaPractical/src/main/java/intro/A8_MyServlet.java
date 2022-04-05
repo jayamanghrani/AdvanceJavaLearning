@@ -29,13 +29,13 @@ abstract class GenericServlet implements Servlet // getting from servlet-api.jar
 	/** This class overrides only 4 method , so it is abstract */
 	
 	/*
-	 * void init(ServletConfig config) throws ServletException {}
+	 * void init(ServletConfig config) throws ServletException {.....}
 	 * 
-	 * ServletConfig getServletConfig() {}
+	 * ServletConfig getServletConfig() {......}
 	 * 	 * 
-	 * java.lang.String getServletInfo() {}
+	 * java.lang.String getServletInfo() {.....}
 	 * 
-	 * void destroy() {}
+	 * void destroy() {.....}
 	 */
 	
 	
